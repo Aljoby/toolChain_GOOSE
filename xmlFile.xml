@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <attacks>
 	<attack name="InjectPkt">
-		<cond stNum = "10" sqNum = "1" MAC = "00:1b:21:b5:8b:bd" />
+		<cond stNum = "1" sqNum = "0" MAC = "01:0c:cd:01:00:01" />
 		<payload stNum= "0" sqNum = "1" data = "this is injected packet" />
 	</attack>
  	<attack name="DOSPkts">
-		<cond stNum = "1" sqNum = "5" freq = "7" />
+		<cond stNum = "1" sqNum = "0" freq = "7" />
 		<payload stNum= "1" sqNum = "1" data = "this is DOS packet" />
 	</attack>
 </attacks>
