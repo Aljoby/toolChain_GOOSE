@@ -10,4 +10,6 @@ The possible senerios of attacks are defined in an XML file called "xmlFile.xml"
 References:
 
 [1]. Hoyos, J., Dehus, M., & Brown, T. X. (2012, December). Exploiting the GOOSE protocol: A practical attack on cyber-infrastructure. In 2012 IEEE Globecom Workshops (pp. 1508-1513). IEEE.
+
+
 [2]. 
