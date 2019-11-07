@@ -12,4 +12,4 @@ References:
 [1]. Hoyos, J., Dehus, M., & Brown, T. X. (2012, December). Exploiting the GOOSE protocol: A practical attack on cyber-infrastructure. In 2012 IEEE Globecom Workshops (pp. 1508-1513). IEEE.
 
 
-[2]. 
+[2]. Partha Biswas, Heng Chuan Tan, Qingbo Zhu, Yuan Li, Daisuke Mashima, and Binbin Chen, "A Synthesized Dataset for Cybersecurity Study of IEC 61850 based Substation." To appear at IEEE SmartGridComm 2019.
